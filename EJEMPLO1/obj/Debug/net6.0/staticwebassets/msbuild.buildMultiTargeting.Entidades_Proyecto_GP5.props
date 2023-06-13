@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Entidades_Proyecto_GP5.props" />
+</Project>
